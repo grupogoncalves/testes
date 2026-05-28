@@ -1,0 +1,19 @@
+{
+  "name": "landing-meia-calca-peluciada-asaas",
+  "version": "1.0.0",
+  "description": "Landing page mobile-first para venda de meia calça peluciada com checkout Asaas",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^7.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
